@@ -803,16 +803,16 @@ You've covered a lot of ground today, and that's something to be proud of! Now c
 ## 🚀 Your Programming Journey Timeline
 
 ### ⚡ **What You Can Do in the Next 5 Minutes**
-- [ ] Bookmark 2-3 programming language websites that caught your attention
-- [ ] Download Visual Studio Code if you haven't already
-- [ ] Open your browser's DevTools (F12) and click around any website
+- [x] Bookmark 2-3 programming language websites that caught your attention
+- [x] Download Visual Studio Code if you haven't already
+- [x] Open your browser's DevTools (F12) and click around any website
 - [ ] Join one programming community (Dev.to, Reddit r/webdev, or Stack Overflow)
 
 ### ⏰ **What You Can Accomplish This Hour**
-- [ ] Complete the post-lesson quiz and reflect on your answers
-- [ ] Set up VS Code with the GitHub Copilot extension
-- [ ] Try a "Hello World" example in 2 different programming languages online
-- [ ] Watch a "Day in the Life of a Developer" video on YouTube
+- [x] Complete the post-lesson quiz and reflect on your answers
+- [x] Set up VS Code with the GitHub Copilot extension
+- [x] Try a "Hello World" example in 2 different programming languages online
+- [x] Watch a "Day in the Life of a Developer" video on YouTube
 - [ ] Start your programming language detective work (from the challenge)
 
 ### 📅 **Your Week-Long Adventure**
